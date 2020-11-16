@@ -1,5 +1,8 @@
 os: linux
 language: python
+arch:
+  - amd64
+  - ppc64le
 python:
   - "2.7"
   - "3.6"
